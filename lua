@@ -1,3 +1,1 @@
--- AvonyxKarpuz Troll Panel
-print("AvonyxKarpuz Troll Panel Açıldı!")
-game.Players.LocalPlayer.Name = "AvonyxKarpuzHup"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Avonyx/AvonyXkarpuz/main/TrollPanel.lua"))()
